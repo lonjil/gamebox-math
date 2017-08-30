@@ -46,8 +46,8 @@ or their plural forms. Example use:
   ; symbols vx, vy, and vz now available as accessors
 )
 (with-vectors ((v1 foo-vector)
-              (v2 bar-vector)
-              ...)
+               (v2 bar-vector)
+               ...)
   ; symbol accessors for any number of vectors can now be used
 )
 ```
